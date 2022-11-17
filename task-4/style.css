@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+body{
+   background-image: url("./asset/WhatsApp\ Image\ 2022-11-17\ at\ 10.56.41\ AM.jpeg");
+   
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+ 
+  
+}
+.mainContainer{
+    width: 90%;
+    height: 100vh;
+    margin:0 auto;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+ .box-1{
+    margin-top: 150px;
+    width: 100%;
+    background: url("./asset/rosepetal-bg.webp");
+    height: 250px;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+   background-size: cover;
+   color: #061F3E;
+
+
+}
+.box-2{
+   
+    width: 100%;
+    background: url("./asset/sandal-bg.jpg");
+    height: 250px;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+   background-size: cover;
+   color: #061F3E;
+   
+
+}.box-3{
+    width: 100%;
+    background: url("./asset/skyBg.jpg");
+    height: 250px;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+   background-size: cover;
+   
+
+}.box-4{
+    width: 100%;
+    background: url("./asset/bg.jpg");
+    height: 250px;
+    
+    opacity: 0.7;
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin-bottom: 222px;
+
+}
+.boxes{
+    transform: rotate(-3deg);
+}
+
+#TopHeading{
+    color: white;
+    font-family: sans-serif;
+    display:block;
+    width: 20%;
+    height:40px;
+    background-color:#061F3E ;
+    position: relative;
+    left: 40%;
+    top: 48px;
+    text-transform: uppercase;
+    padding: 2px;
+    text-align: center;
+    letter-spacing: 6px;
+    
+}
+#Top-para{
+    display: block;
+    width: 75%;
+    height: 150px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    position: relative;
+    left: 15%;
+    top: 30px;
+}
+.TopParaSpan{
+    font-size: 120px;
+}
+#lastHeading{
+    color: white;
+    font-family: sans-serif;
+    display:block;
+    
+    
+    position: relative;
+        bottom: 60px;
+    text-transform: uppercase;
+    padding: 2px;
+    text-align: center;
+    font-size: 100px;
+}
+    
+
+
+
